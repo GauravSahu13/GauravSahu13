@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gaurav Sahu</h1>
 <h3 align="center">Turning Data into Insights | Data Scientist</h3>
-(img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)
+<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsahu13&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsahu13" /> </p>
 
