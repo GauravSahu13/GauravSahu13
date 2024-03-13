@@ -1,10 +1,8 @@
+![MasterHead](https://www.commercient.com/wp-content/uploads/2019/12/deepLearning.gif)
 <h1 align="center">Hi 👋, I'm Gaurav Sahu</h1>
 <h3 align="center">Turning Data into Insights | Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif>
-
+<img align="right" alt="Coding" width="400" src=https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsahu13&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsahu13" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravsahu13" alt="gauravsahu13" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
