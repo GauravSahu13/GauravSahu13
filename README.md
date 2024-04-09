@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [APS-FAULT DETECTION](https://github.com/GauravSahu13/ML_Pipelines--aps_fault_detection)
+- 🔭 I’m currently working on [OBJECT DETECTION](https://github.com/GauravSahu13/FaceRecognition)
 
 - 🌱 I’m currently learning **Deep learning & reinforcement learning, cloud platforms & services**
 
